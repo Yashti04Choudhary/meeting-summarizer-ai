@@ -1,0 +1,21 @@
+🤖 Local AI-Generated Meeting Summary
+📅 Generated on: 2025-06-11 16:40:23
+📝 Model: BART Large CNN
+==================================================
+
+OVERVIEW:
+Users can now add items to save for later list from both the carton product pages. The data sends in real time with the user's profile. There is one minor bug where the save for list doesn't refresh instantly if accessed from the home page.
+
+KEY POINTS IDENTIFIED:
+• We need to finalize the release plan for the save for later feature.
+• It's a UI states issue should be fixable today.
+• I will also send the new API details to the mobile team.
+• They might need to sync bookmarks across the platform.
+• Not a blogger, but we should log it for post real fixes.
+
+POTENTIAL ACTION ITEMS:
+📌 We need to finalize the release plan for the save for later feature.
+📌 It's a UI states issue should be fixable today.
+📌 I will also send the new API details to the mobile team.
+📌 They might need to sync bookmarks across the platform.
+📌 Not a blogger, but we should log it for post real fixes.
