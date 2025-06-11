@@ -1,4 +1,4 @@
-# Autonomous Meeting Summarizer
+# Meeting Summarizer
 
 An AI-powered tool that automatically transcribes audio recordings and generates concise summaries.
 
